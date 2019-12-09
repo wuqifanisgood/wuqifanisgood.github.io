@@ -4,43 +4,41 @@ title: 星合の空
 ---
 ## Contact
 
-- Address: **Sun Yat-sen University - 132 Waihuan East Rd. - Guangzhou, China**
-- Phone: **+86 18756280097**
+- Address: **CCNU - Wuhan, China**
+- Phone: **+86 13000000000**
 - E-mail:
-  - **wu.kan@foxmail.com**
-  - **wukan3@mail2.sysu.edu.cn**
-  - **im.wu.kan@gmail.com**
-- WeChat: **Wu-_-Kan**
-- QQ: **942759535**
-- Blog: **<https://wu-kan.github.io>**
+  - **w845469882@qq.com**
+- WeChat: **wuqifan666666**
+- QQ: **845469882**
+- Blog: **<https://wuqifanisgood.github.io>**
 
 ## Education
 
-School of Data and Computer Science, Sun Yat-sen University, Guangzhou, Sept. 2017 - Jul. 2021(expected)
+The college of Urban & Environmental Sciences, Central China Normal University, Wuhan, Sept. 2018 - Jul. 2021(expected)
 
-- Bachelor of Computer Science (Supercomputer Class)
-  - Principle of Supercomputer
-  - Parallel and Distributed Computing
-  - High Performance Computing
+- Master of GIS 
+  - RS , Agricultural remote sensing
+  - GIS , WebGIS
+  - UAV
+  - Machine Learning 
 
 ## Award
 
-- **Silver Medal**, ICPC Asia Regional Contest Xuzhou Site, Nov. 2019
 - **Second Scholarship**, Oct. 2019
-- **First Prize**, China Collegiate Programming Contest, Guangdong Division, May 2019
-- **Third Scholarship**, Oct. 2018
-- **First Prize**, China Collegiate Programming Contest, Guangdong Division, May 2018
+- ...
+
 
 ## Skill
 
-- **C/C++**, Familiar
-  - **OpenMP**, Familiar
-  - **MPI**, Familiar&Learning
-  - **CUDA**, Learning
+- **JAVA**, Familiar
+  - **SpinrgBoot**, Familiar
+  - **JAVAWEB**, Familiar
+  - **MySQL**, Familiar
 - **Python**, Familiar
-- **Markdown**, Familiar
-- **LaTex**, Familiar
-- **Linux**, Familiar&Learning
-- **Git**, Familiar
-- **VSCode**, Familiar
-- **Haskell**, Prior Experience
+- **MATLAB**, Familiar
+- **Markdown**, Learning
+- **Machine Learning**, Learning
+- **OpenCV**, Learning
+- **Git**, Learning
+- **IDEA & Pycharm**, Familiar
+- **UAV**, Prior Experience
