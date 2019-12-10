@@ -1,6 +1,6 @@
 ---
 layout: index
-title: 星合の空
+title: 一起去超越~
 ---
 ## Contact
 
