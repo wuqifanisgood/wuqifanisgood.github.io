@@ -156,9 +156,7 @@ script: # 需要在正文前调用的脚本或者插件的autoloader
   - key: markdown_expand
     value: true
 - var:
-   -key: rel
-    value: stylesheet
-  - key: href
+  - key: src
     value: /public/css/prism.css
 #- var: mathjax
 #  - key: src
