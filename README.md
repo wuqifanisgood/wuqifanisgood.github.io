@@ -46,7 +46,7 @@ Live2D来自于[stevenjoezhang/live2d-widget](https://github.com/stevenjoezhang/
 
 ### 2019-12-11
 
-- 修改Background，头像，增加彩带背景
+- 修改Background(css)，头像(_config)，彩带背景(_config)
 - 修改打赏
 - 修改网易云歌单id
 - 解决评论功能403问题，Valine官网
