@@ -29,20 +29,20 @@ The college of Urban & Environmental Sciences, Central China Normal University, 
 
 ## Skill
 
-- **JAVA**, Familiar
+- **Java**, Familiar
   - **SpinrgBoot**, Familiar
   - **JAVAWEB**, Familiar
   - **MySQL**, Familiar
-- **Html + Css + JavaScript + JQuery + BootStrap** ,Learning
+- **Html Css JavaScript JQuery BootStrap** ,Learning
 - **Python**, Familiar
 - **MATLAB**, Familiar
-- **c++** , Learning
+- **C++** , Learning
 - **Machine Learning and Deep Learning**, Learning
 - **OpenCV**, Learning
 - **Git**, Learning
 - **IDEA & Pycharm**, Familiar
 - **Markdown**, Learning
-- **UAV**, Prior Experience
+- **UAV**, Familiar
 
 ## Entertainments
 
@@ -54,4 +54,4 @@ The college of Urban & Environmental Sciences, Central China Normal University, 
   - **PUBG Mobile** ,Carry
   - **Dota1** ,Carry
   - **CS** ,Rookie
-  - ... ,Rookie
+  - ... ,Noob
