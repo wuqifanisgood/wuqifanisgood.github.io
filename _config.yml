@@ -300,9 +300,10 @@ post:
     img: # 万一真的有人打赏呢~
     - id: wechat
       src: /public/image/wechatpay.jpg
-    - id: wechatappreciate
+    # - id: wechatappreciate
 #       src: //cdn.jsdelivr.net/gh/wu-kan/wu-kan.github.io@1788f1b6c2e12cca626b85f25749f99ca0c7aad0/public/image/wechatappreciate.jpg
-    - id: qq
+        
+    # - id: qq
 #       src: //cdn.jsdelivr.net/gh/wu-kan/wu-kan.github.io@1788f1b6c2e12cca626b85f25749f99ca0c7aad0/public/image/qqpay.jpg
     - id: alipay
       src: /public/image/alipay.jpg

@@ -5,7 +5,7 @@ title: 一起去超越~
 ## Contact
 
 - Address: **CCNU - Wuhan, China**
-- Phone: **+86 00000000000(Why not contact me via wechat #^.^#)**
+- Phone: **+86 00000000000(Why not contact me via wechat? #^.^#)**
 - E-mail:
   - **w845469882@qq.com**
 - WeChat: **wuqifan666666**
@@ -14,7 +14,9 @@ title: 一起去超越~
 
 ## Education
 
-The college of Urban & Environmental Sciences, Central China Normal University, Wuhan, Sept. 2018 - Jul. 2021(expected)
+The college of Urban & Environmental Sciences, 
+Central China Normal University, 
+Wuhan, Sept. 2018 - Jul. 2021(expected)
 
 - Master of GIS 
   - RS , Agricultural Remote Sensing; UAV Remote Sensing
@@ -31,7 +33,7 @@ The college of Urban & Environmental Sciences, Central China Normal University, 
 
 - **Java**, Familiar
   - **SpinrgBoot**, Familiar
-  - **JAVAWEB**, Familiar
+  - **JavaWeb**, Familiar
   - **MySQL**, Familiar
 - **Html Css JavaScript JQuery BootStrap** ,Learning
 - **Python**, Familiar
@@ -49,8 +51,8 @@ The college of Urban & Environmental Sciences, Central China Normal University, 
 - **Sports**
   - Basketball,Volleyball,Badminton ...
 - **E-Games**
-  - **LOL** ,Carry
-  - **CF** ,Carry
+  - **LOL** ,Super Carry
+  - **CF** ,Super Carry
   - **PUBG Mobile** ,Carry
   - **Dota1** ,Carry
   - **CS** ,Rookie
